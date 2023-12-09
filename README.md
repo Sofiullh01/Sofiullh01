@@ -3,8 +3,12 @@
 ## About Me
 Hey 👋, I'm Sofiul, a front-end developer specializing in HTML, CSS, Tailwind, JavaScript, React, Node.js, Express.js, and MongoDB. I'm passionate about creating aesthetically pleasing and user-friendly websites. With my skills in front-end development and database management, I can deliver dynamic web applications. Let's collaborate and create something amazing!
 
-
-**Sofiullh01/Sofiullh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
