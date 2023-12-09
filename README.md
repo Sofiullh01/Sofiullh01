@@ -1,4 +1,6 @@
-### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sofiullh01%20&theme=modern-lilac2&border_radius=4.6)](https://git.io/streak-stats)
+
+## Hi there 👋
 
 **Sofiullh01/Sofiullh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
