@@ -1,10 +1,14 @@
 ![Cover picture!](/images/cover2.jpg "San Juan Mountains")
 
-<div style="text-align:center; display:flex; align-items:center;">
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user==Sofiullh01&theme=gruvbox-duo" />
+</p>
+<!-- <div style="text-align:center; display:flex; align-items:center;">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sofiullh01%20&theme=modern-lilac2&border_radius=4.6)
 
-</div>
+</div> -->
 
 
 ## About Me
