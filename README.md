@@ -17,12 +17,13 @@ Hey 👋, I'm Sofiul, a front-end developer specializing in HTML, CSS, Tailwind,
   </a>
 </p>
 
+### 🚀 Web Developer with a Passion for Excellence
 
-- Master HTML for structure, CSS for styling, and JavaScript for interactivity.
-- I explore anything available to implement React
-- 👯 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML & CSS: Crafting visually appealing and responsive web interfaces with clean and semantic code.
+- I Tailwind CSS: Leveraging the power of utility-first styling for efficient and stylish designs.
+- JavaScript: Creating dynamic and interactive user experiences with the versatility of JavaScript.
+- React: Building scalable and modular front-end applications using the popular React library.
+- Node.js: Harnessing the server-side capabilities of Node.js to develop robust and efficient back-end solutions.
+- Express.js: Streamlining the development of web applications with the lightweight and flexible Express.js framework.
+- MongoDB (CRUD): Proficient in database operations, ensuring seamless data manipulation in MongoDB.
+⚡ 
