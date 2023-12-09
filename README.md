@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sofiullh01%20&theme=modern-lilac2&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sofiullh01%20&theme=modern-lilac2&border_radius=4.6)](https://git.io/streak-stats align='center')
 
 ## About Me
 Hey 👋, I'm Sofiul, a front-end developer specializing in HTML, CSS, Tailwind, JavaScript, React, Node.js, Express.js, and MongoDB. I'm passionate about creating aesthetically pleasing and user-friendly websites. With my skills in front-end development and database management, I can deliver dynamic web applications. Let's collaborate and create something amazing!
@@ -6,15 +6,14 @@ Hey 👋, I'm Sofiul, a front-end developer specializing in HTML, CSS, Tailwind,
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github" />
   </a>
 </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- Master HTML for structure, CSS for styling, and JavaScript for interactivity.
+- I explore anything available to implement React
+- 👯 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
