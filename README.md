@@ -1,4 +1,4 @@
-![Cover picture!](/images/cover.jpg "San Juan Mountains")
+![Cover picture!](/images/cover2.jpg "San Juan Mountains")
 
 <div style="text-align:center; display:flex; align-items:center;">
 
